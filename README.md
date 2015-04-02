@@ -1,7 +1,7 @@
 # rethinkchanges
 
 A RethinkDB/Go example which creates a simulator for the examples in articles for Compose - 
-[RethinkDB, Go and Change Feeds, Part 1](https://blog.compose.io/go-rethinkdb-and-change-feeds-part-1/)
+[RethinkDB, Go and Changefeeds, Part 1](https://blog.compose.io/go-rethinkdb-and-change-feeds-part-1/)
 
 ## Building
 
